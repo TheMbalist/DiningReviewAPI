@@ -1,19 +1,23 @@
-package entities;
+package com.diningreviewapi.diningreviewapi.entities;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
+import jakarta.persistence.GenerationType;
 import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "USER")
+@Table(name = "USERS")
 public class User {
 
+    public User(){
+        
+    }
     
-    public User(Long id, String username, String city, String province, Integer zipcode,
+    public User(Long user_id, String username, String city, String province, Integer zipcode,
             Boolean isInterestedInPeanutAllergy, Boolean isInterestedInEggAllergy, Boolean isInterestedInDairyAllergy) {
-        this.id = id;
+        this.user_id = user_id;
         this.username = username;
         this.city = city;
         this.province = province;
@@ -25,10 +29,10 @@ public class User {
 
 
     @Id
-    @GeneratedValue
-    private Long id;
+   @GeneratedValue(strategy = GenerationType.SEQUENCE)
+    private Long user_id;
 
-    @Column(name = "USERNAME")
+    @Column(name = "Username")
     private String username;
 
     @Column(name = "City")
@@ -50,11 +54,11 @@ public class User {
     private Boolean isInterestedInDairyAllergy;
 
     public Long getId() {
-        return id;
+        return user_id;
     }
 
-    public void setId(Long id) {
-        this.id = id;
+    public void setId(Long user_id) {
+        this.user_id = user_id;
     }
 
     public String getUsername() {
