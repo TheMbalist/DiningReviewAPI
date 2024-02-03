@@ -1,7 +1,8 @@
 <h1>DiningReviewAPI</h1>
-<h2>Project Details</h2>
+<h2>Project Description</h2>
 <p>This is a project I created upon completion of the Codecademy Create Rest APIs with Spring in Java course. This project is a review project where a user would first need to register a profile, once they've registered they would then be able to leave a review on a specified restaurant or search for a restaurant based on certain criteria. Should they leave a review, the review is not automatically posted until an admin user approves of the review. </p>
 
+<h2>Project Details</h2>
 <p>In the project, I learned how to work with an in-memory database(H2 database) from the command line using cURL statements.</p>
 <ul>
     <li>I learned how to get the dependencies generated, whether it be via the start.spring.io website or using my chosen IDE (Visual Studio Code).</li>
@@ -38,7 +39,7 @@
 <img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/6c5ff1fc-b6c6-49db-8d8b-f39b205ae295" alt="An example of a POST request"/>
 
 <h4>GET Request</h4>
-<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/144b8a64-bc2f-4ee3-a654-b531f5e7a65e alt="An example of a GET request"
+<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/144b8a64-bc2f-4ee3-a654-b531f5e7a65e alt="An example of a GET request"/>
 
 <h4>PUT Request</h4>
 <img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/4de251b2-93b5-47ea-9947-2d578fdc95f0 alt="An example of a PUT request"/>
@@ -49,6 +50,5 @@
 <h3>Below is an example of some of the cURL statements I used while testing my API endpoints:</h3>
 <img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/6b53f856-5cf0-4efd-a316-de1d73fa8b4f alt="An example of my cURL statements/>
 
-
-<h2>Final Reamrks</h2>
+<h2>Final Remarks</h2>
 <p>I thoroughly enjoyed this project and the various challenges I had to face to get everything working. This project taught me a lot about patience, paying close attention to detail, and problem-solving issues I've never encountered before. I still have a lot of learning to do and I'm excited to do more Spring API projects and improve my skills.</p>
