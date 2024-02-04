@@ -39,16 +39,19 @@
 <img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/6c5ff1fc-b6c6-49db-8d8b-f39b205ae295" alt="An example of a POST request"/>
 
 <h4>GET Request</h4>
-<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/144b8a64-bc2f-4ee3-a654-b531f5e7a65e alt="An example of a GET request"/>
+<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/144b8a64-bc2f-4ee3-a654-b531f5e7a65e" alt="An example of a GET request"/>
 
 <h4>PUT Request</h4>
-<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/4de251b2-93b5-47ea-9947-2d578fdc95f0 alt="An example of a PUT request"/>
+<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/fd6e5f4b-fc2b-4b04-b9a8-c5de6dfd8459" alt="An example of a PUT request"/>
 
 <h4>DELETE Request</h4>
-<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/c25357d3-b725-4f05-8d64-2539197f068f" alt="An example of a DELETE request"/>
+<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/6be743b8-42a4-4173-9181-d1b5d529596d" alt="An example of a DELETE request"/>
+
 
 <h3>Below is an example of some of the cURL statements I used while testing my API endpoints:</h3>
-<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/6b53f856-5cf0-4efd-a316-de1d73fa8b4f alt="An example of my cURL statements/>
+<img src="https://github.com/TheMbalist/DiningReviewAPI/assets/121617487/7a9ba4ca-7faf-4b4a-bdc6-c9ae710e2920" alt="An example of the cURL statements used"/>
+
+
 
 <h2>Final Remarks</h2>
 <p>I thoroughly enjoyed this project and the various challenges I had to face to get everything working. This project taught me a lot about patience, paying close attention to detail, and problem-solving issues I've never encountered before. I still have a lot of learning to do and I'm excited to do more Spring API projects and improve my skills.</p>
